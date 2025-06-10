@@ -135,6 +135,7 @@ mail.example.com	93.184.216.35	HTTP访问成功	HTTP
 - 优化扫描算法
 - 支持多种验证方法
 - 添加结果导出功能
+![image](https://github.com/user-attachments/assets/1000d78b-5553-4a2c-b138-b425fdfd9c26)
 
 ### v1.0
 - 基础子域名扫描功能
